@@ -1,0 +1,17 @@
+#case{
+    text-align: right;
+    padding: px 20px;
+}
+.team{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+    
+    
+}
+#button{
+    color: white;
+    background-color: black;
+    padding: 1px;
+    border: solid 2px;
+}
